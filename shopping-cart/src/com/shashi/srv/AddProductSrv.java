@@ -24,7 +24,6 @@ import com.shashi.dao.ProductDaoImpl;
 @MultipartConfig(maxFileSize = 16177215)
 public class AddProductSrv extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-    
     public AddProductSrv() {
         super();
     }
