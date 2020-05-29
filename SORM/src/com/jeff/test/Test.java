@@ -102,5 +102,6 @@ public class Test {
 //		update();
 //		select04();
 		test05();
+		System.out.println("**");
 	}
 }
