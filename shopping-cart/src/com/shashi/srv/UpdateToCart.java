@@ -26,7 +26,6 @@ public class UpdateToCart extends HttpServlet {
     
     public UpdateToCart() {
         super();
-        
     }
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
