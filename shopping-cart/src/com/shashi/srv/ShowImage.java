@@ -21,7 +21,6 @@ import com.shashi.utility.DBUtil;
 @WebServlet("/ShowImage")
 public class ShowImage extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-      
     public ShowImage() {
         super();
     }
